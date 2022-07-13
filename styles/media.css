@@ -10,6 +10,7 @@
 
     h2{
         font-size: 38px;
+        text-align: center;
     }
 
     form{
@@ -27,5 +28,9 @@
 
     ul{
         text-align: center;
+    }
+    
+    p{
+        margin: auto;
     }
 }
