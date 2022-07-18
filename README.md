@@ -4,7 +4,7 @@
 
 Esse projeto foi inspirado pelo desafio proposto pelo Alexandre Santos no seu tutorial no youtube. Aceitei o desafio e criei esta landing page do personagem Saitama do anime One Punch Man, utilizando HTML e CSS.
 
-Customizei com as cores da personagem, adicionei um efeito no botão do formulário e esse foi o resultado. Gostei bastante!
+Customizei com as cores da personagem, adicionei um efeito no botão do formulário e esse foi o resultado. Curti bastante!
 
 ![Print da tela](https://user-images.githubusercontent.com/105990622/178046436-7bbfdf72-7352-4458-bf9f-3ee884f72d69.png)
 
