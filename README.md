@@ -1,8 +1,8 @@
 <h1 align="center"> 
-   One Punch Man - Landing Page
+  Landing Page - One Punch Man 👊
 </h1>
 
-Esse projeto foi inspirado pelo desafio proposto pelo Alexandre Santos no seu tutorial no youtube. Aceitei o desafio e criei esta landing page do personagem Saitama do anime One Punch Man, utilizando as linguagens HTML e CSS.
+Esse projeto foi inspirado no desafio proposto pelo Alexandre Santos no seu tutorial no youtube. Aceitei o desafio e criei essa landing page do personagem Saitama do anime One Punch Man, utilizando as linguagens HTML e CSS.
 
 Customizei com as cores do personagem, adicionei um efeito no botão do formulário e esse foi o resultado final. Curti bastante!
 
