@@ -16,5 +16,8 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 ## Layout Final
 ![Print da tela](https://user-images.githubusercontent.com/105990622/178046436-7bbfdf72-7352-4458-bf9f-3ee884f72d69.png)
 
+## Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/felipe-rodsilva/landingpage-onepunchman/blob/main/LICENSE.md">LICENSE</a> para mais detalhes.
 
 This project is for study purposes, so all kinds of contributions are very welcome and appreciated! 🤝
